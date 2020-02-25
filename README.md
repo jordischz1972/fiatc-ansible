@@ -1,2 +1,2 @@
 # fiatc-ansible
-Repositori FIATC con playbooks Ansible
+Repositori FIATC amb playbooks d'Ansible
